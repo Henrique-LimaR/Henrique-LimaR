@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henrique-LimaR
-- 👀 I’m interested in Machine Learning, Elixir and java.
+- 👀 I’m interested in Machine Learning, python, Elixir and java.
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on nodejs.org
 - 📫 How to reach me HenriqueLimaRibeiro_@outlook.com
