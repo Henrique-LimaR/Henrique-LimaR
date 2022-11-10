@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Henrique-LimaR
+- 👋 Hi, I’m Henrique Lima
 - 👀 I’m interested in Machine Learning, c++, java and golang.
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on nodejs.org
