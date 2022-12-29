@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Henrique Lima
-- 👀 I’m interested in Machine Learning, c++, rust and golang.
-- 🌱 I’m currently learning Nodejs
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning c++ and rust.
 - 💞️ I’m looking to collaborate on nodejs.org
-- 📫 How to reach me HenriqueLimaRibeiro_@outlook.com
+- 📫 How to reach me henriquelimaribeiro4@gmail.com
 
 <!---
 Henrique-LimaR/Henrique-LimaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
