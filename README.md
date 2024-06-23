@@ -2,4 +2,3 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning c++ and rust.
 - 💞️ I’m looking to collaborate on nodejs.org
-- 📫 How to reach me henriquelimaribeiro4@gmail.com
